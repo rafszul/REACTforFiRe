@@ -2,7 +2,7 @@
 
 or REACTiontoFIRE
 
-[![]()]()
+[![](https://raw.githubusercontent.com/rafszul/fire/master/FIRE-JSON-models/exchange_rate.png)](https://github.com/rafszul/fire/tree/master/FIRE-JSON-models)
 
 d3.js layout in REACT.js
 
